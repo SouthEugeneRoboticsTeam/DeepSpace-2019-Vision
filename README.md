@@ -1,3 +1,5 @@
+# Archived. See [vision repo](https://github.com/SouthEugeneRoboticsTeam/vision) for game-agnostic code.
+
 <p align="center">
     <a href="#"><img alt="Logo" src="./images/logo.png" width="67%" /></a>
 </p>
